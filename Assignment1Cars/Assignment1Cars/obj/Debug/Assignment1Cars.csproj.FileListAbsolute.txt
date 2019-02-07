@@ -1,0 +1,7 @@
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\bin\Debug\Assignment1Cars.exe.config
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\bin\Debug\Assignment1Cars.exe
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\bin\Debug\Assignment1Cars.pdb
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\obj\Debug\Assignment1Cars.csprojAssemblyReference.cache
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\obj\Debug\Assignment1Cars.csproj.CoreCompileInputs.cache
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\obj\Debug\Assignment1Cars.exe
+C:\Users\Satermoth\source\repos\Assignment1Cars\Assignment1Cars\obj\Debug\Assignment1Cars.pdb
